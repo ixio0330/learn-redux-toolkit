@@ -1,2 +1,1 @@
-# redux-toolkit
-react + redux-toolkit 간단 사용기
+# learn-redux-toolkit
